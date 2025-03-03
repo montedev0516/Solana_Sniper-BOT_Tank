@@ -14,6 +14,8 @@
 
 ![Monitorchannel](/assets/Monitor.png)
 
+* we need to distinct solana token address and ethereum token address, etc.
+
 ## Buy and Sell Criteria
 
 **I want an automated trading bot on solana, raydium with some criteria:**
