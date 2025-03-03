@@ -6,7 +6,7 @@ const connection = new Connection(clusterApiUrl('devnet'), 'confirmed');
 
 
   // Respond to the callback query with an alert and update the bot's message
-//   bot.answerCallbackQuery(callbackQuery.id, {
-//     text: `You pressed ${category}`,
-//     show_alert: true,
-//   });
+  bot.answerCallbackQuery(callbackQuery.id, {
+    text: `You pressed ${category}`,
+    show_alert: true,
+  });
