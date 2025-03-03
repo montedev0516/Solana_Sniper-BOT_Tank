@@ -1,10 +1,18 @@
 # Solana Telegram Signal Trading Bot
 
-![sol_tank bot](/assets/Solana_Tank_Bot.png)
+## Personal Trading Bot, not public
 
 ## Trading Stratergy
 
 ![Stratergy](/assets/Stratergy.png)
+
+## Realtime-Monitor Channel
+
+* **Channel Link** = https://t.me/Maestrosdegen
+
+* **Maestrosdegen Telegram Signal Channel for realtime monitoring**
+
+![Monitorchannel](/assets/Monitor.png)
 
 ## Buy and Sell Criteria
 
