@@ -23,7 +23,7 @@
 
 # Telegram Tokens, RPC_node,  Required APIs
 
-* **TELEGRAM_TOKEN**='6488196050:AAEuA3DeoblV-LZQwoexDgWJoM2Tg0-E2Ns'
+* **TELEGRAM_TOKEN**='...'
 
 * **RPC_URL**='https://mainnet.helius-rpc.com/?api-key=12e48098-...'
 * **WEBSOCKET_URL** = "wss://mainnet.helius-rpc.com/?api-key=12e48098-..."

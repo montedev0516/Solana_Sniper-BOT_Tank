@@ -7,9 +7,6 @@ import router from './router';
   router(bot);  
 })();
 
-// ( () => {
-//   // main();
-// })();
 
 
 
