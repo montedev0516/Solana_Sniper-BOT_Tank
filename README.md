@@ -47,7 +47,7 @@
 
 1. **yarn install**
 2. **yarn start**
-3. Find **@tank_solbot** (in Telegram)
+3. Find **@tank_...** (in Telegram)
 4. **/start** (Telegram)
 5. selection buttons ...
 
