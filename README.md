@@ -114,6 +114,3 @@ This project does not expose an HTTP API. The “API surface” is the Telegram 
 - **Stop Trading**: stops the running intervals
 
 > Note: the **Sell** button is currently a UI entry only; selling is triggered automatically by the take-profit logic.
-
-## Contact
-- **Email**: international.contributor.21@gmail.com
